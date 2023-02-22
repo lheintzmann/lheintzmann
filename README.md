@@ -9,12 +9,12 @@ I'm a high school student from France and a passionate programmer who loves work
 Here are the programming languages I'm proficient in, along with some related technologies:
 
 
-- <img src="https://img.icons8.com/color/20/000000/python.png"/> Python
-- <img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript
-- <img src="https://img.icons8.com/color/20/000000/rust-programming-language.png"/> Rust
-- <img src="https://img.icons8.com/color/20/000000/c-sharp-logo.png"/> C#
-- <img src="https://img.icons8.com/color/20/000000/unity.png"/> Unity
-- <img src="https://img.icons8.com/color/20/000000/git.png"/> Git
+- <code><img src="https://img.icons8.com/color/20/000000/python.png"/></code> Python
+- <code><img src="https://img.icons8.com/color/20/000000/javascript.png"/></code> JavaScript
+- <code><img src="https://img.icons8.com/color/20/000000/rust-programming-language.png"/></code> Rust
+- <code><img src="https://img.icons8.com/color/20/000000/c-sharp-logo-2.png"/></code> C#
+- <code><img src="https://img.icons8.com/color/20/000000/unity.png"/></code> Unity
+- <code><img src="https://img.icons8.com/color/20/000000/git.png"/></code> Git
 
 ## Projects
 
@@ -32,6 +32,6 @@ Here are a few projects I've worked on recently:
 
 If you'd like to get in touch, feel free to reach out via email or social media:
 
-- 📧 [lheintzmann@disr.it](mailto:lheintzmann@disr.it)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lheintzmann)
-- 👾 [Discord](https://discord.gg/yDN6qhuN)
+<code><a href="mailto:lheintzmann@disr.it"><img src="https://img.icons8.com/color/64/apple-mail.png"/></a></code>
+<code><a href="https://www.linkedin.com/in/lheintzmann"><img src="https://img.icons8.com/color/64/linkedin.png"/></a></code>
+<code><a href="https://discord.gg/yDN6qhuN"><img src="https://img.icons8.com/color/64/discord-new-logo.png"/></a></code>
