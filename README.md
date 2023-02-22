@@ -4,6 +4,18 @@
 
 I'm a high school student from France and a passionate programmer who loves working on challenging projects that push my skills to the limit. My main interests are game development, physics simulations, and software engineering in general. When I'm not coding, you can usually find me playing video games, watching movies, or exploring the great outdoors.
 
+## Languages
+
+Here are the programming languages I'm proficient in, along with some related technologies:
+
+
+- <img src="https://img.icons8.com/color/20/000000/python.png"/> Python
+- <img src="https://img.icons8.com/color/20/000000/javascript.png"/> JavaScript
+- <img src="https://img.icons8.com/color/20/000000/rust-programming-language.png"/> Rust
+- <img src="https://img.icons8.com/color/20/000000/c-sharp-logo.png"/> C#
+- <img src="https://img.icons8.com/color/20/000000/unity.png"/> Unity
+- <img src="https://img.icons8.com/color/20/000000/git.png"/> Git
+
 ## Projects
 
 Here are a few projects I've worked on recently:
