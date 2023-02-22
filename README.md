@@ -4,10 +4,7 @@
 
 I'm a high school student from France and a passionate programmer who loves working on challenging projects that push my skills to the limit. My main interests are game development, physics simulations, and software engineering in general. When I'm not coding, you can usually find me playing video games, watching movies, or exploring the great outdoors.
 
-## Languages
-
-Here are the programming languages I'm proficient in, along with some related technologies:
-
+## Technologies
 
 - <code><img src="https://img.icons8.com/color/20/000000/python.png"/></code> Python
 - <code><img src="https://img.icons8.com/color/20/000000/javascript.png"/></code> JavaScript
@@ -32,6 +29,7 @@ Here are a few projects I've worked on recently:
 
 If you'd like to get in touch, feel free to reach out via email or social media:
 
-<code><a href="mailto:lheintzmann@disr.it"><img src="https://img.icons8.com/color/64/apple-mail.png"/></a></code>
-<code><a href="https://www.linkedin.com/in/lheintzmann"><img src="https://img.icons8.com/color/64/linkedin.png"/></a></code>
-<code><a href="https://discord.gg/yDN6qhuN"><img src="https://img.icons8.com/color/64/discord-new-logo.png"/></a></code>
+<code><a href="mailto:lheintzmann@disr.it"><img src="https://img.icons8.com/3d-fluency/64/filled-message.png"/></a></code>
+<code><a href="https://www.linkedin.com/in/lheintzmann"><img src="https://img.icons8.com/3d-fluency/64/linkedin.png"/></a></code>
+<code><a href="https://discord.gg/yDN6qhuN"><img src="https://img.icons8.com/3d-fluency/64/discord-logo.png"/></a></code>
+<code><a href="https://www.instagram.com/_lucas_heint/"><img src="https://img.icons8.com/3d-fluency/64/instagram-new.png"/></a></code>
