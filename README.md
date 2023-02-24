@@ -15,8 +15,8 @@ I'm a high school student from France and a passionate programmer who loves work
 
 <p align="center">
 <a href="https://github.com/lheintzmann">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lheintzmann&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lheintzmann&theme=transparent&hide=css,html&layout=compact&langs_count=8&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lheintzmann&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lheintzmann&theme=transparent&hide=css,html&layout=compact&langs_count=8" />
 </a>
 </p>
 
