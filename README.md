@@ -13,10 +13,12 @@ I'm a high school student from France and a passionate programmer who loves work
 - <code><img src="https://img.icons8.com/color/20/000000/unity.png"/></code> Unity
 - <code><img src="https://img.icons8.com/color/20/000000/git.png"/></code> Git
 
+<p align="center">
 <a href="https://github.com/lheintzmann">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lheintzmann&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lheintzmann&theme=transparent&hide=css,html&layout=compact&langs_count=8&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lheintzmann&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lheintzmann&theme=transparent&hide=css,html&layout=compact&langs_count=8&hide_border=true" />
 </a>
+</p>
 
 ## Projects
 
