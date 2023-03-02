@@ -32,5 +32,4 @@ If you'd like to get in touch, feel free to reach out via email or social media:
 <code><a href="mailto:lheintzmann@disr.it"><img src="https://img.icons8.com/3d-fluency/64/filled-message.png"/></a></code>
 <code><a href="https://www.linkedin.com/in/lheintzmann"><img src="https://img.icons8.com/3d-fluency/64/linkedin.png"/></a></code>
 <code><a href="https://discord.gg/yDN6qhuN"><img src="https://img.icons8.com/3d-fluency/64/discord-logo.png"/></a></code>
-<code><a href="https://www.instagram.com/_lucas_heint/"><img src="https://img.icons8.com/3d-fluency/64/instagram-new.png"/></a></code>
 <code><a href="https://www.freecodecamp.org/lheintzmann1"><img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/64/FFFFFF/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-bold-tal-revivo.png"/></a></code>
